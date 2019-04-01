@@ -1,3 +1,3 @@
 # black-n-yellow
 RWD
-Live demo: https://donmikele.github.io/black-n-yellow/
+Live demo: https://mkaczynski96.github.io/black-n-yellow/
